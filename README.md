@@ -1,2 +1,3 @@
 # hello-world
 pokus
+tady se to snad naucim konecne pouzivat ale asi je mi to ku hovnu...
